@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   <p align="center"> Mobile nativo developer at NTT Data Business Solutions Brazil, I am studying Systems Analysis and Development at Universidade Estácio de Sá.
 
   </a><br>
-  <p align="center">Já se inscreve aí e vem codar comigo, tua contribuição será muito bem vinda, vlw mesmo! 😉️</h2>
+  <p align="center">Already sign up there and come code with me, your contribution will be very welcome, thank you! 😉️</h2>
 </div>
 
 
