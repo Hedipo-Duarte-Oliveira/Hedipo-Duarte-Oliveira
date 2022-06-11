@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 <div>
-  <h1 align="center">Hey how's it going? I am the <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BY0nADUJsRnCaCrfGXL1xtA%3D%3D"><i>Hédipo Duarte</i></a> 😃️</h1>
+  <h1 align="center">Hey how's it going? I am the <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BY0nADUJsRnCaCrfGXL1xtA%3D%3D"><i>Hédipo Duarte Oliveira </i></a></h1>
   <p align="center"> Mobile nativo developer at NTT Data Business Solutions Brazil, I am studying Systems Analysis and Development at Universidade Estácio de Sá.
 
   </a><br>
