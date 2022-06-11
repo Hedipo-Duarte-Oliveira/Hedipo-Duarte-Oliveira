@@ -30,14 +30,7 @@ Here are some ideas to get you started:
 </h1>
 <p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
 
-<div align="center">
-  <a href="https://github.com/Hedipo-Duarte-Oliveira">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Hedipo-Duarte-Oliveira
-&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hedipo-Duarte-Oliveira
-&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+
 
 
 
@@ -47,14 +40,9 @@ Here are some ideas to get you started:
   <img align="center" alt="git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original-wordmark.svg" />
    <img align="center" alt="git" height="60" width="60" src=        
 
-<!--   <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> -->
-  <img align="center" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-</div><br>
-
 <div align="center">
  
-
-  <a href="https://www.linkedin.com/in/h%C3%A9dipo-duarte-92a793173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="https://www.linkedin.com/in/h%C3%A9dipo-duarte-92a793173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:hedipomissoes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
