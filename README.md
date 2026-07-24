@@ -1,61 +1,162 @@
-### Hi there 👋
-
-<!--
-**Hedipo-Duarte-Oliveira/Hedipo-Duarte-Oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<div>
-  <h1 align="center">Hey how's it going? I am the <a href="https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BY0nADUJsRnCaCrfGXL1xtA%3D%3D"><i>Hédipo Duarte Oliveira </i></a></h1>
-  <p align="center"> Mobile nativo developer at NTT Data Business Solutions Brazil, I am studying Systems Analysis and Development at Universidade Estácio de Sá.
-
-  </a><br>
-  <p align="center">Already sign up there and come code with me, your contribution will be very welcome, thank you! 😉️</h2>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=120&section=header&text=Hédipo%20Duarte%20Oliveira&fontSize=42&fontColor=ffffff" alt="header"/>
 </div>
 
-
-<!-- <h1 align="center"> 
-  Trybe
+<h1 align="center">
+  👋 Bem-vindo ao meu perfil!
 </h1>
-<p align="center"><i>"A Trybe é uma escola do futuro para qualquer pessoa que deseja construir uma carreira de sucesso em tecnologia. Como estudante a pessoa ainda tem a opção de pagar os estudos apenas quando estiver formada e com um bom trabalho."</i></p> -->
 
+<p align="center">
+  <strong>Desenvolvedor Mobile Nativo | Android Specialist | Clean Architecture</strong>
+  <br/>
+  Transformando ideias em código elegante e funcional
+</p>
 
+---
 
+## 🚀 Sobre Mim
 
+Sou um desenvolvedor **Android nativo** apaixonado por **Clean Architecture**, **SOLID Principles** e **Boas Práticas de Desenvolvimento**. Atualmente trabalhando na **NTT Data Business Solutions Brazil**, cursando **Sistemas de Informação** na **Universidade Estácio de Sá**.
 
-<div align="center" valign="top"><br>
- 
-   <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+- 📱 Especialista em **Desenvolvimento Android com Kotlin**
+- 🏗️ Aplicando **Clean Architecture** em todos os meus projetos
+- 🎯 Certificado em **Google Associate Android Developer**
+- 💡 Apaixonado por **Arquitetura de Software** e **Design Patterns**
+- 📚 Sempre aprendendo e compartilhando conhecimento
+
+---
+
+## 💼 Experiência Profissional
+
+| Posição | Empresa | Período |
+|---------|---------|---------|
+| **Mobile Developer** | NTT Data Business Solutions Brazil | 2023 - Presente |
+| **Android Developer** | Desenvolvimento de Projetos Pessoais | 2020 - Presente |
+
+---
+
+## 🛠️ Tech Stack
+
+### Linguagens
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frameworks & Libraries
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+### Arquitetura & Padrões
+- **Clean Architecture** - Separação clara de responsabilidades
+- **MVVM** - Model-View-ViewModel para UI reativa
+- **MVI** - Model-View-Intent para estado previsível
+- **Repository Pattern** - Abstração de dados
+- **Dependency Injection** - Com Hilt e Koin
+
+### Persistência & API
+![Room](https://img.shields.io/badge/Room%20Database-00897B?style=for-the-badge&logo=database&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Retrofit](https://img.shields.io/badge/Retrofit-009688?style=for-the-badge&logo=api&logoColor=white)
+
+### Ferramentas & Desenvolvimento
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
+
+---
+
+## 📂 Projetos em Destaque
+
+<div align="center">
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| **[Todo List Android](https://github.com/Hedipo-Duarte-Oliveira/Todo-List-Android)** | App de tarefas com Clean Architecture | Kotlin • Compose • Room |
+| **[Chronos Pomodoro](https://github.com/Hedipo-Duarte-Oliveira/chronos-pomodoro)** | Timer Pomodoro com React | React • TypeScript • Vite |
+| **[Conversor de Moedas](https://github.com/Hedipo-Duarte-Oliveira/ConversorDeMoedas)** | Conversão de moedas em tempo real | Kotlin • Retrofit • MVVM |
+| **[AAD - Android Certification](https://github.com/Hedipo-Duarte-Oliveira/aad)** | Preparatório completo para certificação | Kotlin • Android • Codelabs |
+
+</div>
+
+---
+
+## 📊 Estatísticas GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hedipo-Duarte-Oliveira&show_icons=true&theme=dracula&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hedipo-Duarte-Oliveira&layout=compact&theme=dracula&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Certificações & Aprendizado
+
+- 🥇 **Google Associate Android Developer** - Google Developers Certification
+- 📱 **Advanced Android Development** - Google Codelabs
+- 🏗️ **Clean Architecture** - Aplicado em todos os projetos
+- 🧪 **Testing & Quality Assurance** - Unit Tests, Integration Tests, UI Tests
+
+---
+
+## 🌱 Atualmente Aprendendo
+
+```
+├── 🎨 Jetpack Compose avançado
+├── 🧪 Test-Driven Development (TDD)
+├── ☁️ Backend com Firebase
+├── 🔐 Segurança em Android
+└── 📊 Kotlin Multiplatform Mobile (KMM)
+```
+
+---
+
+## 🤝 Vamos Conectar!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hédipo-duarte-92a793173/)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hedipomissoes@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-%23000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hedipo-Duarte-Oliveira)
+
+</div>
+
+---
+
+## 📖 Blog & Recursos
+
+Compartilho conhecimento e experiências sobre:
+- 🎯 Android Development Best Practices
+- 🏗️ Clean Architecture Patterns
+- 🧪 Testing Strategies
+- 📱 UI/UX com Jetpack Compose
+
+---
+
+## 💬 Deixa uma Mensagem!
+
+Adoraria ouvir sua opinião ou ideias para colaboração. Sinta-se à vontade para:
+
+- 📧 Enviar uma mensagem
+- 🔗 Conectar no LinkedIn
+- ⭐ Deixar uma estrela em meus repositórios
+- 🤝 Colaborar em projetos open source
+
+---
+
+<div align="center">
+  <h3>
+    "Código limpo é código que se explica por si mesmo."
+  </h3>
   
-   <img align="center" alt="git" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-   
-   <img align="center" alt="git" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-          
- <div align="center">
- 
- <a href="https://www.linkedin.com/in/h%C3%A9dipo-duarte-92a793173/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:hedipomissoes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <p>
+    Feito com ❤️ usando Kotlin, Java e muita ☕
+  </p>
+
+  ![](https://komarev.com/ghpvc/?username=Hedipo-Duarte-Oliveira&color=667eea)
 </div>
 
-<div align="center">
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
-<div align="center">
-  <p>Feito com :Java: e Kotlin.</p>
-  <p>Créditos: <a href="https://github.com/anuraghazra/github-readme-stats">Anurag Hazra</a> e <a href="https://github.com/rafaballerini">Rafaella Ballerini</a></p>
-</div>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=667eea&height=120&section=footer" alt="footer"/>
