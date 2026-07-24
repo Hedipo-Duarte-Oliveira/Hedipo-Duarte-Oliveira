@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <strong>Desenvolvedor Mobile Nativo | Android Specialist | Clean Architecture</strong>
+  <strong>Desenvolvedor Android | Engenheiro de Software | Clean Architecture</strong>
   <br/>
   Transformando ideias em código elegante e funcional
 </p>
@@ -16,13 +16,18 @@
 
 ## 🚀 Sobre Mim
 
-Sou um desenvolvedor **Android nativo** apaixonado por **Clean Architecture**, **SOLID Principles** e **Boas Práticas de Desenvolvimento**. Atualmente trabalhando na **NTT Data Business Solutions Brazil**, cursando **Sistemas de Informação** na **Universidade Estácio de Sá**.
+Sou um desenvolvedor **Android** apaixonado por **Clean Architecture**, **SOLID Principles** e **Boas Práticas de Desenvolvimento**. 
 
-- 📱 Especialista em **Desenvolvimento Android com Kotlin**
+- 🎓 **Formação Acadêmica**
+  - 📚 Graduado em **Engenharia de Software**
+  - 📱 Anteriormente em **Análise e Desenvolvimento de Sistemas**
+
+- 📱 Desenvolvimento **Android com Kotlin**
 - 🏗️ Aplicando **Clean Architecture** em todos os meus projetos
-- 🎯 Certificado em **Google Associate Android Developer**
+- 🎯 Estudando para **Google Associate Android Developer Certification** (em preparação)
 - 💡 Apaixonado por **Arquitetura de Software** e **Design Patterns**
 - 📚 Sempre aprendendo e compartilhando conhecimento
+- 💼 Trabalhando na **NTT Data Business Solutions Brazil**
 
 ---
 
@@ -93,12 +98,14 @@ Sou um desenvolvedor **Android nativo** apaixonado por **Clean Architecture**, *
 
 ---
 
-## 🎓 Certificações & Aprendizado
+## 🎓 Formação & Aprendizado
 
-- 🥇 **Google Associate Android Developer** - Google Developers Certification
-- 📱 **Advanced Android Development** - Google Codelabs
+- 🎯 **Google Associate Android Developer** - Certificação em Preparação
+- 📱 **Google Codelabs** - Android Development Advanced Topics
 - 🏗️ **Clean Architecture** - Aplicado em todos os projetos
 - 🧪 **Testing & Quality Assurance** - Unit Tests, Integration Tests, UI Tests
+- 🎓 **Engenharia de Software** - Graduação Completa
+- 📚 **Análise e Desenvolvimento de Sistemas** - Formação Anterior
 
 ---
 
@@ -107,6 +114,7 @@ Sou um desenvolvedor **Android nativo** apaixonado por **Clean Architecture**, *
 ```
 ├── 🎨 Jetpack Compose avançado
 ├── 🧪 Test-Driven Development (TDD)
+├── 📱 Google Associate Android Developer
 ├── ☁️ Backend com Firebase
 ├── 🔐 Segurança em Android
 └── 📊 Kotlin Multiplatform Mobile (KMM)
@@ -133,6 +141,7 @@ Compartilho conhecimento e experiências sobre:
 - 🏗️ Clean Architecture Patterns
 - 🧪 Testing Strategies
 - 📱 UI/UX com Jetpack Compose
+- 🔐 Segurança em Aplicações Mobile
 
 ---
 
