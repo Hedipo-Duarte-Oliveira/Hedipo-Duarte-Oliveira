@@ -78,7 +78,6 @@ Sou um desenvolvedor **Android** apaixonado por **Clean Architecture**, **SOLID 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
 | **[Todo List Android](https://github.com/Hedipo-Duarte-Oliveira/Todo-List-Android)** | App de tarefas com Clean Architecture | Kotlin • Compose • Room |
-| **[AAD - Android Certification](https://github.com/Hedipo-Duarte-Oliveira/aad)** | Preparatório completo para certificação | Kotlin • Android • Codelabs |
 
 </div>
 
