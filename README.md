@@ -78,8 +78,6 @@ Sou um desenvolvedor **Android** apaixonado por **Clean Architecture**, **SOLID 
 | Projeto | Descrição | Stack |
 |---------|-----------|-------|
 | **[Todo List Android](https://github.com/Hedipo-Duarte-Oliveira/Todo-List-Android)** | App de tarefas com Clean Architecture | Kotlin • Compose • Room |
-| **[Chronos Pomodoro](https://github.com/Hedipo-Duarte-Oliveira/chronos-pomodoro)** | Timer Pomodoro com React | React • TypeScript • Vite |
-| **[Conversor de Moedas](https://github.com/Hedipo-Duarte-Oliveira/ConversorDeMoedas)** | Conversão de moedas em tempo real | Kotlin • Retrofit • MVVM |
 | **[AAD - Android Certification](https://github.com/Hedipo-Duarte-Oliveira/aad)** | Preparatório completo para certificação | Kotlin • Android • Codelabs |
 
 </div>
